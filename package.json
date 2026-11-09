@@ -1,0 +1,13 @@
+{
+  "name": "good-move",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test",
+    "build": "node scripts/build.mjs",
+    "check": "node --check assets/app.js && node --check assets/model.js && node --test && node scripts/build.mjs"
+  }
+}

@@ -1,0 +1,1766 @@
+{
+  "exercises": [
+    {
+      "id": "E01",
+      "name": "Easy walking / light cycling",
+      "category": "",
+      "equipment": "None; treadmill or bike optional",
+      "defaultDose": "1-4 minutes depending on routine.",
+      "how": "Walk at a relaxed pace, gradually increasing to a comfortable brisk pace for a warm-up. Swing arms naturally, keep gaze ahead and breathe easily. For a cool-down, gradually slow the pace. Easy cycling can substitute before/after gym.",
+      "watch": "Do not force jogging. Stop for dizziness, unusual breathlessness or symptoms that worsen with movement.",
+      "why": "Particularly relevant because Ryan reports that walking often eases his back symptoms. Also forms the safe base of sport warm-ups.",
+      "alternatives": "E21 marching on the spot; brief corridor walk; easy stationary cycling.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "legs",
+        "hips"
+      ],
+      "sources": [
+        4
+      ],
+      "photo": {
+        "url": "https://www.walks4all.com/wellness/10000-steps/images/An-older-man-walking-comfortably.jpg",
+        "source": "https://www.walks4all.com/wellness/10000-steps/",
+        "publisher": "Walks4all",
+        "note": "Relaxed outdoor walking demonstration"
+      }
+    },
+    {
+      "id": "E02",
+      "name": "Supine pelvic tilts",
+      "category": "",
+      "equipment": "Mat or bed",
+      "defaultDose": "6-8 reps.",
+      "how": "Lie on your back with knees bent and feet supported. Gently flatten the lower back towards the mat by tipping the pelvis backwards, then release to neutral. Use a small, controlled motion and keep breathing.",
+      "watch": "No forceful arching, breath-holding or pushing through sharp pain.",
+      "why": "Gentle, low-load movement when stiff after rest.",
+      "alternatives": "E10 sit-to-stand or E01 walking if lying down is uncomfortable.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "back",
+        "hips"
+      ],
+      "sources": [
+        0
+      ],
+      "photo": {
+        "url": "https://static1.squarespace.com/static/5f5e8592d2b0854b18af6975/5fb7c850d4788b5df8d8af32/60cde5953838956a5ac55029/1646599788190/Supine%2BPelvic%2BTilt.jpg?format=1500w",
+        "source": "https://www.rehabhero.ca/exercise/supine-pelvic-tilt",
+        "publisher": "Rehab Hero",
+        "note": "Pelvic tilt demonstration"
+      }
+    },
+    {
+      "id": "E03",
+      "name": "Supine knee rolls",
+      "category": "",
+      "equipment": "Mat or bed",
+      "defaultDose": "4-5 slow turns each way.",
+      "how": "Lie on your back, knees bent and feet together or hip-width. Slowly let both knees tip a short distance to one side while shoulders remain relaxed; return to centre and repeat on the other side.",
+      "watch": "Keep range small; do not wrench the knees towards the floor or allow a painful spinal twist.",
+      "why": "Comfortable movement in the low back and hips.",
+      "alternatives": "E02 pelvic tilts if rotation is provocative.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "back",
+        "hips"
+      ],
+      "sources": [
+        0
+      ],
+      "photo": {
+        "url": "https://www.guysandstthomas.nhs.uk/sites/default/files/styles/wysiwyg_default_xs/public/2024-03/6.jpg.jpg?itok=KptN5jo7",
+        "source": "https://www.guysandstthomas.nhs.uk/health-information/low-back-pain/physiotherapy-and-exercises",
+        "publisher": "Guy’s and St Thomas’ NHS",
+        "note": "Supine knee-roll demonstration"
+      }
+    },
+    {
+      "id": "E04",
+      "name": "Cat-camel (gentle)",
+      "category": "",
+      "equipment": "Mat",
+      "defaultDose": "6 reps.",
+      "how": "On hands and knees with hands under shoulders and knees under hips, slowly round the back a little and then return towards a gentle, comfortable arch. Keep neck in line with the trunk rather than looking up sharply.",
+      "watch": "Avoid large end ranges; **skip if pressure through the shoulder, wrist or neck is uncomfortable**.",
+      "why": "Gentle controlled spinal movement.",
+      "alternatives": "E02 pelvic tilts; seated small back movement if recommended by physio.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "back"
+      ],
+      "sources": [
+        0
+      ],
+      "photo": {
+        "url": "https://cdn.sanity.io/images/69kas9zj/production/49598d7be86b13d51505f34ef8d87122e4d6e1c0-2048x2048.webp?auto=format&h=2048&w=2048",
+        "source": "https://www.groovepillows.co.uk/blogs/how-to-decompress-spine-while-sleeping",
+        "publisher": "Groove Pillows",
+        "note": "Two-position cat–cow photograph; use a smaller range"
+      }
+    },
+    {
+      "id": "E05",
+      "name": "Gentle chin retractions (chin tucks)",
+      "category": "",
+      "equipment": "None",
+      "defaultDose": "3-5 reps, approximately 2-second holds.",
+      "how": "Sit or stand tall with eyes level. Glide the head gently straight backwards as though making a small double chin, without looking down or tilting back. Relax fully between reps.",
+      "watch": "Do not jam the chin in, lift the chin or push into a headache, arm tingling or dizziness.",
+      "why": "Small, controlled neck movement for desk time and daily mobility.",
+      "alternatives": "E06 gentle rotations or simply a change of position if this aggravates symptoms.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "neck"
+      ],
+      "sources": [
+        1
+      ],
+      "photo": {
+        "url": "https://cdn.shopify.com/s/files/1/2009/9771/files/seated_cervical_retraction.png?v=1612885427",
+        "source": "https://endurelite.com/blogs/free-nutrition-supplement-and-training-articles-for-runners-and-cyclists/how-to-fix-bad-posture",
+        "publisher": "EndurElite",
+        "note": "Gentle cervical retraction"
+      }
+    },
+    {
+      "id": "E06",
+      "name": "Gentle neck rotations",
+      "category": "",
+      "equipment": "None",
+      "defaultDose": "3 each side.",
+      "how": "Keep shoulders relaxed and look slowly to the left, return to centre, then right. Stop before pain or pulling becomes strong.",
+      "watch": "No hand assistance, quick turns, head circles or forced end-range stretches.",
+      "why": "Maintain comfortable neck movement.",
+      "alternatives": "Smaller turns; stop this movement if it causes dizziness or neurological symptoms.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "neck"
+      ],
+      "sources": [
+        1
+      ],
+      "photo": {
+        "url": "https://assets.nhs.uk/prod/images/NHSC_0118_neck-rotation.width-1534.jpg",
+        "source": "https://www.nhs.uk/live-well/exercise/sitting-exercises/",
+        "publisher": "NHS",
+        "note": "Seated neck rotation"
+      }
+    },
+    {
+      "id": "E07",
+      "name": "Shoulder blade setting",
+      "category": "",
+      "equipment": "None",
+      "defaultDose": "6-8 reps, 1-2-second holds.",
+      "how": "Standing or sitting upright, let the shoulders relax down. Very gently draw the shoulder blades towards each other, then fully release. Arms remain relaxed near the sides.",
+      "watch": "No forceful pinching, shoulder shrugging or pain in the frozen shoulder.",
+      "why": "Short break from sustained desk posture; gentle shoulder-girdle movement.",
+      "alternatives": "Shoulder relaxation and easy walking.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "shoulders",
+        "upperback"
+      ],
+      "sources": [
+        1
+      ],
+      "photo": {
+        "url": "https://www.sralab.org/sites/default/files/inline-images/Gina%20Clark%20-%20Shoulder%20blade%20squeeze_gclark.jpg",
+        "source": "https://www.sralab.org/articles/blog/check-your-form-five-exercises-you-can-do-without-equipment",
+        "publisher": "Shirley Ryan AbilityLab",
+        "note": "Shoulder-blade squeeze"
+      }
+    },
+    {
+      "id": "E08",
+      "name": "Supported shoulder pendulum",
+      "category": "",
+      "equipment": "Stable bench/table",
+      "defaultDose": "20-30 seconds on affected side.",
+      "how": "Support yourself securely with the unaffected arm. Hinge forward only a little from the hips if your back allows, let the affected arm hang and make tiny relaxed movements or circles by moving the body, not by actively swinging the shoulder.",
+      "watch": "Back pain from leaning or shoulder pain from movement. Skip if either occurs. Do not swing vigorously.",
+      "why": "A commonly used gentle shoulder mobility exercise; does not replace a tailored frozen-shoulder programme.",
+      "alternatives": "E07 shoulder blade setting.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "shoulders"
+      ],
+      "sources": [
+        2
+      ],
+      "photo": {
+        "url": "https://www.shoulder-pain-explained.com/images/rotator-cuff-injury-rehab-exercises-pendulum.jpg",
+        "source": "https://www.shoulder-pain-explained.com/rotator-cuff-injury-exercises.html",
+        "publisher": "Shoulder Pain Explained",
+        "note": "Supported shoulder pendulum"
+      }
+    },
+    {
+      "id": "E09",
+      "name": "Wall-assisted shoulder slide",
+      "category": "",
+      "equipment": "Wall",
+      "defaultDose": "",
+      "how": "Face a wall, place the fingers of the affected hand against it and walk the fingers slowly upwards only to a gentle, approved range. Lower with control. Keep shoulder relaxed and do not arch the lower back.",
+      "watch": "Sharp shoulder pain, hiking the shoulder or compensating through the neck/back. No forced overhead range.",
+      "why": "Optional shoulder mobility progress once the physio confirms it is appropriate.",
+      "alternatives": "E08 pendulum; clinician's prescribed assisted movement.",
+      "reviewRequired": true,
+      "condition": "review",
+      "areas": [
+        "shoulders"
+      ],
+      "sources": [
+        2
+      ],
+      "photo": {
+        "url": "https://storage.googleapis.com/msgsndr/YFCmcmCIVK70RmBhfbRG/media/6537d32bf18ef934a3eb9861.png",
+        "source": "https://www.reliefsolutions4you.com/blog/c/shoulder-pain-causes-treatments/b/frozen-shoulder-a-comprehensive-guide-to-understanding-and-treatment",
+        "publisher": "Relief Solutions",
+        "note": "Finger walk up wall; clinician review first"
+      }
+    },
+    {
+      "id": "E10",
+      "name": "Sit-to-stand",
+      "category": "",
+      "equipment": "Stable chair",
+      "defaultDose": "6-8 reps.",
+      "how": "Place feet about hip-width, lean forwards slightly from the hips, stand up smoothly and sit back down under control. Use hands for assistance if needed.",
+      "watch": "Avoid collapsing into the chair, painful knee angles or hard bracing through the neck.",
+      "why": "Practical movement break and light leg activity.",
+      "alternatives": "E21 march on the spot.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "legs",
+        "hips"
+      ],
+      "sources": [
+        0
+      ],
+      "photo": {
+        "url": "https://assets.nhs.uk/nhsuk-cms/images/STRENGTH_EXERCISES-_Sit-to-stand.width-1534.jpg",
+        "source": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "publisher": "NHS",
+        "note": "Chair sit-to-stand"
+      }
+    },
+    {
+      "id": "E11",
+      "name": "Standing split-stance hip-flexor stretch",
+      "category": "",
+      "equipment": "None or wall for balance",
+      "defaultDose": "20 seconds each side.",
+      "how": "Take a small staggered stance, back heel lifted. Gently tuck the pelvis, tighten the back-leg glute and shift your weight forward a little until you feel a mild stretch at the front of the back hip. Stay tall.",
+      "watch": "Do not arch the lower back or push into groin pain.",
+      "why": "Optional flexibility for long periods spent sitting.",
+      "alternatives": "Shorter stance; skip if back discomfort increases.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "hips"
+      ],
+      "sources": [
+        5
+      ],
+      "photo": {
+        "url": "https://cdn.prod.website-files.com/5ffa270a9a8ca2c5864de81d/6a1b96f755af9680ca4a3645_Standing%20hip%20flexor.jpg",
+        "source": "https://www.revisionhealthservices.com/blog/fast-and-effective-standing-lower-back-stretches",
+        "publisher": "Revision Health Services",
+        "note": "Standing hip-flexor stretch"
+      }
+    },
+    {
+      "id": "E12",
+      "name": "Wall calf stretch",
+      "category": "",
+      "equipment": "Wall",
+      "defaultDose": "20 seconds each side.",
+      "how": "Hands lightly on wall, step one foot back, keep back heel down and knee gently straight, then lean forward slightly until the calf stretches. Repeat on the other side.",
+      "watch": "Do not bounce or force the ankle.",
+      "why": "Useful after tennis footwork and walking.",
+      "alternatives": "E20 calf raises as dynamic ankle movement (not an identical stretch).",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "calves"
+      ],
+      "sources": [
+        5
+      ],
+      "photo": {
+        "url": "https://firstlinephysio.ca/wp-content/uploads/2021/03/Mar-17-2021-Calf-Stretch-Blog-scaled.jpg",
+        "source": "https://firstlinephysio.ca/calf-stretch-home-exercise/",
+        "publisher": "First Line Physiotherapy",
+        "note": "Wall calf stretch"
+      }
+    },
+    {
+      "id": "E13",
+      "name": "Supine hamstring stretch, with strap if useful",
+      "category": "",
+      "equipment": "Mat, optional towel/strap",
+      "defaultDose": "20 seconds each side.",
+      "how": "Lie on your back with one knee bent and foot on the floor. Lift the other thigh using a strap behind the thigh or foot, keeping a **slight bend** in that knee. Raise only until a gentle stretch is felt at the back of the thigh. Keep lower back relaxed.",
+      "watch": "Do not straighten the knee aggressively or pull the foot towards you. Stop for shooting pain, tingling or symptoms down the leg (which may not be a simple muscle stretch).",
+      "why": "Requested optional hamstring mobility, without unsupported toe-touching.",
+      "alternatives": "Gentle seated hamstring stretch if recommended by physio; otherwise skip.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "hamstrings"
+      ],
+      "sources": [
+        5
+      ],
+      "photo": {
+        "url": "https://images.squarespace-cdn.com/content/v1/670dbf05046f4e0324f0553e/f9a8d4d0-ec6a-4af2-a1b9-c495ef91fe7b/hamstring-stretch.png?format=750w",
+        "source": "https://www.duckerphysio.com.au/blog/stretching-exercises-for-hamstring-tightness",
+        "publisher": "Ducker Physio Adelaide",
+        "note": "Hamstring stretch with strap"
+      }
+    },
+    {
+      "id": "E14",
+      "name": "Supine figure-four glute stretch",
+      "category": "",
+      "equipment": "Mat",
+      "defaultDose": "20 seconds per side.",
+      "how": "Lie on your back, place one ankle on the opposite thigh just above the knee. If comfortable, draw the supporting thigh gently towards you to feel a mild stretch in the buttock.",
+      "watch": "No force on the knee; stop for radiating nerve-like symptoms or aggravated back pain.",
+      "why": "Optional gluteal and hip mobility after activity.",
+      "alternatives": "Easy walking; E11 hip-flexor stretch (targets a different region).",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "hips"
+      ],
+      "sources": [
+        5
+      ],
+      "photo": {
+        "url": "https://images.ctfassets.net/hjcv6wdwxsdz/6RwinBYzqiIRXLY6EdD3dN/77e1628bed5861e662f73e0eba26c67d/figure-four-stretch-claire-hold-other.png?w=1200",
+        "source": "https://www.hingehealth.com/resources/articles/figure-four/",
+        "publisher": "Hinge Health",
+        "note": "Supine figure-four stretch"
+      }
+    },
+    {
+      "id": "E15",
+      "name": "Glute bridge",
+      "category": "",
+      "equipment": "Mat",
+      "defaultDose": "8 reps; R09 may use 2 sets.",
+      "how": "Lie on your back with knees bent, feet hip-width. Exhale gently, tighten the buttocks and lift hips a modest amount while keeping ribs relaxed. Lower slowly.",
+      "watch": "Do not hyperextend the lower back, push through the neck or hold your breath. Stop if it increases spinal pain.",
+      "why": "Low-load gluteal strengthening and hip control.",
+      "alternatives": "E10 sit-to-stand or E17 clamshell if comfortable.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "hips",
+        "back"
+      ],
+      "sources": [
+        0,
+        6
+      ],
+      "photo": {
+        "url": "https://cdn.prod.website-files.com/6649f71c6d7b3c031c72475b/66927bcdb5fe98154fe381f5_EMsella%20-%20Main%20-%201200x800.jpg",
+        "source": "https://www.genesiswellnessandpain.com/treatments/emsella",
+        "publisher": "Genesis Wellness",
+        "note": "Glute bridge demonstration"
+      }
+    },
+    {
+      "id": "E16",
+      "name": "Supine abdominal march",
+      "category": "",
+      "equipment": "Mat",
+      "defaultDose": "6 lifts per side; R09 may use 2 sets.",
+      "how": "Lie on your back, knees bent and feet supported. Keep spine in a comfortable neutral position and lightly tighten the abdomen. Slowly lift one foot a few centimetres, set it down, then change legs. Breathe steadily.",
+      "watch": "No back arching, hard abdominal bracing, neck straining or breath-holding. If this is too much, slide one heel a short distance along the mat instead.",
+      "why": "Gentle trunk control without shoulder weight-bearing.",
+      "alternatives": "Supine heel slide (simpler variation); walking.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "core"
+      ],
+      "sources": [
+        0,
+        6
+      ],
+      "photo": {
+        "url": "https://www.spineandsportspt.org/web_images/dsc_0074-3.jpg",
+        "source": "https://www.spineandsportspt.org/exercises/sup_march.php",
+        "publisher": "Spine & Sports Physical Therapy",
+        "note": "Gentle supine abdominal march"
+      }
+    },
+    {
+      "id": "E17",
+      "name": "Side-lying clamshell",
+      "category": "",
+      "equipment": "Mat and head pillow",
+      "defaultDose": "8 each side; R09 may use 2 sets.",
+      "how": "Lie on one side with hips and knees gently bent, feet together and head supported. Keeping pelvis still, raise the upper knee a little without separating the feet. Lower slowly, then change sides.",
+      "watch": "Do not roll the pelvis backwards or strain the shoulder supporting the body; rest the head on a pillow/arm comfortably.",
+      "why": "Gentle outer-hip strengthening relevant to walking, stairs and tennis movement.",
+      "alternatives": "E10 sit-to-stand if side-lying is uncomfortable.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "hips"
+      ],
+      "sources": [
+        0,
+        6
+      ],
+      "photo": {
+        "url": "https://flowfeet.com/img/cms/Clamshell-Stretch.jpg",
+        "source": "https://flowfeet.com/blog/post/55/can-sciatica-cause-foot-pain",
+        "publisher": "Flow Feet",
+        "note": "Side-lying clamshell"
+      }
+    },
+    {
+      "id": "E18",
+      "name": "Standing hip hinge rehearsal",
+      "category": "",
+      "equipment": "None",
+      "defaultDose": "8 reps.",
+      "how": "Stand with soft knees and hands resting on hips. Push hips backwards a short distance while torso inclines forwards as one unit; return by pushing through the feet and gently squeezing glutes. Keep neck in line with torso.",
+      "watch": "No rounded/forced back, painful forward bend or heavy weight. Use a very small range at first.",
+      "why": "Practise a basic movement pattern before gym and after desk work.",
+      "alternatives": "E10 sit-to-stand.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "back",
+        "hips"
+      ],
+      "sources": [
+        0,
+        6
+      ],
+      "photo": {
+        "url": "https://programme.app/static/7c4776118c51497a17cad704fbf43135/8282f/Wall_Touch_Thumbnail.png",
+        "source": "https://programme.app/resources/try-these-4-exercises-to-improve-hip-hinge-technique",
+        "publisher": "Programme",
+        "note": "Wall-touch hip hinge"
+      }
+    },
+    {
+      "id": "E19",
+      "name": "Mini bodyweight squat",
+      "category": "",
+      "equipment": "None",
+      "defaultDose": "8 reps.",
+      "how": "Feet comfortable width apart; bend hips and knees to a shallow, comfortable depth, then stand. Keep knees tracking towards toes and chest comfortably upright.",
+      "watch": "No deep squat requirement, loaded barbell or breath-holding. Stop if back or knees complain.",
+      "why": "Progressive preparation for footwork and leg exercise.",
+      "alternatives": "E10 sit-to-stand.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "legs"
+      ],
+      "sources": [
+        3,
+        6
+      ],
+      "photo": {
+        "url": "https://assets.nhs.uk/prod/images/NHSC_0118_mini-squats.92f1a90e.fill-920x636.jpg",
+        "source": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "publisher": "NHS",
+        "note": "Mini squat"
+      }
+    },
+    {
+      "id": "E20",
+      "name": "Calf raises",
+      "category": "",
+      "equipment": "Wall/bench for balance",
+      "defaultDose": "10 reps.",
+      "how": "Stand tall, lightly hold a support, slowly rise onto the balls of the feet and lower again.",
+      "watch": "Do not bounce; keep stable.",
+      "why": "Gentle lower-leg activation before tennis.",
+      "alternatives": "E26 ankle rocks.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "calves"
+      ],
+      "sources": [
+        3
+      ],
+      "photo": {
+        "url": "https://img.ltn.com.tw/Upload/health/page/800/2024/10/19/63.jpg",
+        "source": "https://health.ltn.com.tw/article/paper/1672625",
+        "publisher": "Liberty Health",
+        "note": "Supported calf raise"
+      }
+    },
+    {
+      "id": "E21",
+      "name": "Marching on the spot",
+      "category": "",
+      "equipment": "None",
+      "defaultDose": "60 seconds.",
+      "how": "March easily on the spot, gradually raising the knees a little higher if comfortable. Natural arm movements; relax shoulders.",
+      "watch": "Avoid vigorous bouncing if uncomfortable or dizzy.",
+      "why": "Gradually raise heart rate without complex movement.",
+      "alternatives": "E01 walking.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "legs"
+      ],
+      "sources": [
+        3
+      ],
+      "photo": {
+        "url": "https://www.bhf.org.uk/-/media/images/information-support/support/healthy-living/activity/cardiac-rehabilitation/what-is-cardiac-rehab-800x600px/what-is-cardiac-rehab-stretch-800x600px.jpg?h=600&hash=97DA790D24052BA7029CE342467DEC65&la=en&rev=f6c7d100e2804ae4ac298bbfaa65e82f&w=800",
+        "source": "https://www.bhf.org.uk/informationsupport/support/cardiac-rehabilitation",
+        "publisher": "British Heart Foundation",
+        "note": "Marching on the spot"
+      }
+    },
+    {
+      "id": "E22",
+      "name": "Gentle side shuffle",
+      "category": "",
+      "equipment": "A few metres of safe space",
+      "defaultDose": "2 x 20 seconds.",
+      "how": "In a relaxed athletic stance, take a few small side steps to the right and back to the left. Keep feet apart and movements controlled; start at a fraction of match speed.",
+      "watch": "Avoid rapid, explosive changes of direction, twisting the back or turning the head abruptly.",
+      "why": "Tennis-specific lateral movement preparation.",
+      "alternatives": "Slow side-stepping without a shuffle.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "legs",
+        "hips"
+      ],
+      "sources": [
+        3
+      ],
+      "photo": {
+        "url": "https://r2.coachlife.com/media/c30e1142bfdd677cd912fff1970e2667/conversions/Shuffle-Drill-preview.webp",
+        "source": "https://www.coachlife.com/videos/shuffle-drill",
+        "publisher": "Coachlife",
+        "note": "Tennis side-shuffle demonstration"
+      }
+    },
+    {
+      "id": "E23",
+      "name": "Supported front-back leg swings",
+      "category": "",
+      "equipment": "Fence/rail for balance",
+      "defaultDose": "8 each leg.",
+      "how": "Hold a secure support, stand tall and swing one leg forwards and backwards over a short, pain-free arc. Keep torso as still as practical; change legs.",
+      "watch": "No jerking, full-range kicking or excessive arching through the back.",
+      "why": "Prepare hips for on-court movement.",
+      "alternatives": "E21 marching.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "hips"
+      ],
+      "sources": [
+        3
+      ],
+      "photo": {
+        "url": "https://wpcluster.dctdigital.com/myweekly/wp-content/uploads/sites/9/2018/05/Exercise_18-1024x683.jpg",
+        "source": "https://www.myweekly.co.uk/2018/05/09/warm-up-exercises-to-help-prevent-injury/",
+        "publisher": "My Weekly",
+        "note": "Supported front–back leg swing"
+      }
+    },
+    {
+      "id": "E24",
+      "name": "Shallow lateral lunge",
+      "category": "",
+      "equipment": "None",
+      "defaultDose": "5 each side.",
+      "how": "Step a comfortable distance sideways, bend the stepping knee slightly and shift hips back a little. Push back to standing and alternate sides.",
+      "watch": "Do not descend deeply or twist the knee/back. Use wall support if balance requires it.",
+      "why": "Rehearse side-to-side movement for tennis.",
+      "alternatives": "E22 gentle side-steps.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "hips",
+        "legs"
+      ],
+      "sources": [
+        3
+      ],
+      "photo": {
+        "url": "https://images.ctfassets.net/hjcv6wdwxsdz/6pHuHdSa64Fy51Pp8qllqL/539b6dafe31cf385451fceac5387ca35/woman-doing-side-lunges-white-background.png?w=1200",
+        "source": "https://www.hingehealth.com/resources/articles/side-lunge/",
+        "publisher": "Hinge Health",
+        "note": "Side lunge; use a shallower depth than pictured"
+      }
+    },
+    {
+      "id": "E25",
+      "name": "Progressive short-court rally",
+      "category": "",
+      "equipment": "Racquet, court, partner",
+      "defaultDose": "4 minutes.",
+      "how": "Begin with very gentle short-court hitting using compact forehands and backhands, then gradually increase movement and stroke pace within a comfortable range.",
+      "watch": "No explosive serving, overhead shots, hard rotation or pain-provoking neck/shoulder mechanics. Stop if symptoms develop. If tennis is not cleared, skip this movement rather than replacing it with risky hitting.",
+      "why": "Gradual transition from general warm-up to actual tennis movement.",
+      "alternatives": "Easy shadow footwork without racquet swings; this does not constitute clearance to play.",
+      "reviewRequired": false,
+      "condition": "tennis",
+      "areas": [
+        "shoulders",
+        "legs"
+      ],
+      "sources": [
+        3
+      ],
+      "photo": {
+        "url": "https://www.tennismagazin.de/content/uploads/2024/07/kleinfeld_uebung-3.1-1024x682.jpg",
+        "source": "https://www.tennismagazin.de/praxis/kleinfeld-tennis-touch-aus-dem-t-feld/",
+        "publisher": "Tennis Magazin",
+        "note": "Gentle short-court hitting; only if cleared"
+      }
+    },
+    {
+      "id": "E26",
+      "name": "Standing ankle rocks",
+      "category": "",
+      "equipment": "Wall or support",
+      "defaultDose": "8 per side.",
+      "how": "In a staggered stance facing a wall, gently bring the front knee forwards over the toes while keeping the heel on the floor. Return and repeat, then change legs.",
+      "watch": "Do not force a painful ankle range or collapse the arch.",
+      "why": "Gentle ankle preparation for tennis footwork and desk breaks.",
+      "alternatives": "E20 calf raises.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "calves"
+      ],
+      "sources": [
+        3
+      ],
+      "photo": {
+        "url": "https://cdn.rankyak.com/32997/11-knee-to-wall-ankle-mobility-drill.png",
+        "source": "https://achillesfootandankle.com/ankle-sprain-prevention-exercises/",
+        "publisher": "Achilles Foot & Ankle",
+        "note": "Ankle dorsiflexion position; photograph kneels, perform standing as described"
+      }
+    },
+    {
+      "id": "E27",
+      "name": "Gentle seated upper-back rotation",
+      "category": "",
+      "equipment": "Stable chair",
+      "defaultDose": "4 per side.",
+      "how": "Sit tall with feet supported and arms loosely crossed in front of chest. Turn the upper chest a small amount to one side, then to the other, keeping head and pelvis comfortable.",
+      "watch": "Avoid yanking the shoulders, forced spinal twists or painful lower-back rotation.",
+      "why": "Small movement after prolonged static posture.",
+      "alternatives": "E01 walking; E34 chair-supported upper-back extension.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "upperback"
+      ],
+      "sources": [
+        0
+      ],
+      "photo": {
+        "url": "https://www.bhf.org.uk/-/media/images/information-support/heart-matters/2024/feb-2024/activity/exercises-for-lower-back-pain/exercises-for-lower-back-pain-620x400.jpg?rev=9badc373971e49e787b964b99e171b59",
+        "source": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/activity/exercises-for-lower-back-pain",
+        "publisher": "British Heart Foundation",
+        "note": "Seated torso rotation start position"
+      }
+    },
+    {
+      "id": "E28",
+      "name": "Calm natural breathing",
+      "category": "",
+      "equipment": "None",
+      "defaultDose": "45-60 seconds.",
+      "how": "Sit or stand comfortably. Breathe quietly and naturally, with a relaxed exhale, allowing the shoulders and jaw to release tension. Do not aim for maximal breaths.",
+      "watch": "Never hold the breath, hyperventilate or continue if dizzy.",
+      "why": "Simple transition from exertion to rest; not a treatment for spinal pain.",
+      "alternatives": "Easy walking at a reduced pace.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "core"
+      ],
+      "sources": [
+        4
+      ],
+      "photo": {
+        "url": "https://images-s3.yogainternational.com/assets/content/articles/AID_1013_EDIT_CROPPED-2.jpg",
+        "source": "https://yogainternational.com/article/view/accessible-pranayama/",
+        "publisher": "Yoga International",
+        "note": "Calm seated breathing"
+      }
+    },
+    {
+      "id": "E29",
+      "name": "Gentle forearm extensor stretch",
+      "category": "",
+      "equipment": "None",
+      "defaultDose": "15-20 seconds each side.",
+      "how": "Extend one arm in front with elbow comfortably straight and palm down. With the other hand, gently guide the wrist/fingers downwards until a mild stretch appears on top of the forearm. Switch sides.",
+      "watch": "Very light pressure; stop for tingling, wrist pain or nerve-like symptoms.",
+      "why": "Optional after gripping a tennis racquet.",
+      "alternatives": "Open and close the hands slowly.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "forearms"
+      ],
+      "sources": [
+        5
+      ],
+      "photo": {
+        "url": "https://static.wixstatic.com/media/4eafd7_61f80272446647b4963d756509342089~mv2_d_1200_1200_s_2.jpg/v1/fill/w_1000%2Ch_1000%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01/4eafd7_61f80272446647b4963d756509342089~mv2_d_1200_1200_s_2.jpg",
+        "source": "https://www.sockslane.com/post/3-pt-recommended-must-do-exercises-for-tennis-elbow-pain",
+        "publisher": "SocksLane",
+        "note": "Forearm extensor stretch"
+      }
+    },
+    {
+      "id": "E30",
+      "name": "Supported quadriceps stretch",
+      "category": "",
+      "equipment": "Stable wall/chair, optional strap",
+      "defaultDose": "20 seconds each side.",
+      "how": "Hold a support, bend one knee and bring the heel back slightly. Hold the ankle only if the shoulder reaches comfortably; otherwise use a strap or skip. Keep thighs approximately aligned, pelvis neutral and back upright.",
+      "watch": "Do not pull forcefully, arch the back or reach awkwardly with the frozen shoulder.",
+      "why": "Optional front-thigh stretch after tennis/gym.",
+      "alternatives": "Short, comfortable standing hip flexor stretch E11 (different emphasis).",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "quads"
+      ],
+      "sources": [
+        5
+      ],
+      "photo": {
+        "url": "https://www.hola.com/horizon/original_aspect_ratio/7318b0f71d56-estiramientos-running-cuadriceps-a.jpg",
+        "source": "https://www.hola.com/estar-bien/20200306162351/mejores-estiramientos-para-runners/",
+        "publisher": "¡HOLA!",
+        "note": "Supported standing quadriceps stretch"
+      }
+    },
+    {
+      "id": "E31",
+      "name": "Band external shoulder rotation",
+      "category": "",
+      "equipment": "Very light resistance band",
+      "defaultDose": "",
+      "how": "With elbow tucked gently beside body and bent to 90 degrees, rotate hand outwards through a short controlled range against very light band resistance. Return slowly; keep shoulder and neck relaxed.",
+      "watch": "Frozen-shoulder pain, neck strain, shrugging or use of a heavy band. Do not perform until approved.",
+      "why": "Potential shoulder capacity work for tennis once medically appropriate.",
+      "alternatives": "Clinician-approved shoulder rehabilitation work, or E07 without resistance.",
+      "reviewRequired": true,
+      "condition": "review",
+      "areas": [
+        "shoulders"
+      ],
+      "sources": [
+        2
+      ],
+      "photo": {
+        "url": "https://cdn.motra.com/exercise-assets/75265fb4ec/thumbnailOriginal.jpg",
+        "source": "https://motra.com/exercises/resistanceBandShoulderExternalRotation",
+        "publisher": "Motra",
+        "note": "Band shoulder external rotation; clinician review first"
+      }
+    },
+    {
+      "id": "E32",
+      "name": "Gentle cross-body shoulder stretch",
+      "category": "",
+      "equipment": "None",
+      "defaultDose": "",
+      "how": "Bring the affected upper arm gently across the front of the chest. Support at the *upper arm* with the other hand; hold only a mild, approved pull.",
+      "watch": "No pressure on the elbow, strong pulling or shoulder pain.",
+      "why": "A standard shoulder mobility option, gated for the current frozen-shoulder history.",
+      "alternatives": "E08 pendulum.",
+      "reviewRequired": true,
+      "condition": "review",
+      "areas": [
+        "shoulders"
+      ],
+      "sources": [
+        2
+      ],
+      "photo": {
+        "url": "https://static.wixstatic.com/media/ac7b6c_a06e23bafeda4494a485aa254b1c44da~mv2.jpg/v1/fill/w_980%2Ch_1004%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/ac7b6c_a06e23bafeda4494a485aa254b1c44da~mv2.jpg",
+        "source": "https://www.leducphysio.ca/post/15-minute-neck-shoulder-stretch",
+        "publisher": "Leduc Physio",
+        "note": "Cross-body shoulder stretch; clinician review first"
+      }
+    },
+    {
+      "id": "E33",
+      "name": "Bird dog, small-range",
+      "category": "",
+      "equipment": "Mat",
+      "defaultDose": "",
+      "how": "From hands and knees with a neutral neck, reach one leg slowly backwards; only add the opposite arm if both shoulder and neck comfortably tolerate it and the physio approves. Keep hips level and movement small.",
+      "watch": "This places load through the arms and neck; currently **not part of the default strength routine**. No high leg lifts, twisting or sagging.",
+      "why": "A future progression for trunk control, not required now.",
+      "alternatives": "E16 supine abdominal march.",
+      "reviewRequired": true,
+      "condition": "review",
+      "areas": [
+        "core",
+        "shoulders"
+      ],
+      "sources": [
+        0,
+        6
+      ],
+      "photo": {
+        "url": "https://images.squarespace-cdn.com/content/v1/6398e0bc4d71d8505b67afce/2a45a6cb-55cb-4487-b9d5-de9f857c9a13/bird%2Bdogs.png",
+        "source": "https://thebalancedbodypt.com/the-latest/4-common-types-of-therapeutic-pt-exercises-with-examples",
+        "publisher": "Balanced Body PT",
+        "note": "Full bird dog shown; only small-range clinician-approved version"
+      }
+    },
+    {
+      "id": "E34",
+      "name": "Chair-supported upper-back extension",
+      "category": "",
+      "equipment": "Chair with stable mid-back support",
+      "defaultDose": "5 small reps.",
+      "how": "Sit upright with hands loosely crossed in front. Gently lift the upper chest a little against the chair back, then return to neutral. Look straight ahead rather than throwing the head backwards.",
+      "watch": "Avoid strong lower-back extension, neck extension or pain.",
+      "why": "Optional posture variation when working at a desk.",
+      "alternatives": "E27 seated upper-back rotation or E01 walking.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "upperback"
+      ],
+      "sources": [
+        0
+      ],
+      "photo": {
+        "url": "https://images.squarespace-cdn.com/content/v1/6883dc1dc2fdd53bf06467c0/1753472091618-O3XMMEGID0TIRK83YU1P/thoracic%2Bextension.jpeg",
+        "source": "https://www.amandareiddesigns.com/blog/how-to-alleviate-neck-pain-as-an-artist-tips-exercises-and-more-nr4ww",
+        "publisher": "Amanda Reid Designs",
+        "note": "Chair-supported thoracic extension; do not extend neck"
+      }
+    },
+    {
+      "id": "E35",
+      "name": "Light rehearsal sets for an already-approved gym lift",
+      "category": "",
+      "equipment": "Depends on the exercise",
+      "defaultDose": "1-2 sets of 6-8 easy reps at much less than working intensity.",
+      "how": "For an exercise **already cleared by the treating clinician**, rehearse the exact movement at very light resistance or without external weight. Increase load only within a programme approved for the current neck/back/shoulder status.",
+      "watch": "Never use this to trial a restricted movement (including chest press while prohibited); avoid breath-holding, neck bracing and pain. The website must not supply default working weights.",
+      "why": "Progress from general warm-up to the permitted specific gym movement.",
+      "alternatives": "Skip this step if there are no cleared lifts to perform.",
+      "reviewRequired": false,
+      "condition": "gym",
+      "areas": [
+        "legs",
+        "core"
+      ],
+      "sources": [
+        4
+      ],
+      "photo": {
+        "url": "https://assets.nhs.uk/nhsuk-cms/images/STRENGTH_EXERCISES-_Bicep_curls.width-1019.jpg",
+        "source": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+        "publisher": "NHS",
+        "note": "Illustrative example only: a biceps curl, not a prescribed gym lift"
+      }
+    },
+    {
+      "id": "E36",
+      "name": "Supported standing hamstring stretch",
+      "category": "",
+      "equipment": "Low step or wall/rail for balance",
+      "defaultDose": "20 seconds per side.",
+      "how": "Place one heel slightly in front of you, heel resting on the ground or a low stable step. Keep a slight bend in that knee and hinge forward only a little from the hips with the back comfortably neutral until a mild stretch is felt behind the thigh. Use a wall/rail for balance.",
+      "watch": "No deep rounding, bouncing, high leg support or forced straight knee. Stop for radiating pain, tingling or increased back symptoms.",
+      "why": "A convenient *optional* alternative to the supine hamstring stretch when a tennis court or gym has no mat.",
+      "alternatives": "E13 supine stretch where practical, or skip.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "hamstrings"
+      ],
+      "sources": [
+        5
+      ],
+      "photo": {
+        "url": "https://images.bannerbear.com/direct/4mGpW3zwpg0ZK0AxQw/requests/000/107/656/983/on98ymlOAQyWbrXmzvM5pkw3R/178f765efa4cd9c1fb32617572592208fbb64f43.jpg",
+        "source": "https://neuropasil.com/blogs/news/how-to-relieve-sciatica-pain-the-right-way",
+        "publisher": "Neuropasil",
+        "note": "Standing heel-on-step hamstring stretch; keep hinge shallow"
+      }
+    },
+    {
+      "id": "E37",
+      "name": "Gentle neck side tilt (no hand pressure)",
+      "category": "",
+      "equipment": "None",
+      "defaultDose": "2 slow tilts per side, with a 1-2-second pause.",
+      "how": "Sit tall, relax both shoulders and slowly tip your right ear a short distance towards the right shoulder without rotating the head. Return to centre; repeat left. Stop at a mild, comfortable stretch.",
+      "watch": "Do not use the hand to pull the head, lift the shoulder towards the ear, or force a long stretch. Stop for dizziness, headache, numbness or arm symptoms.",
+      "why": "Gentle, optional movement for the side of the neck, as included in NHS neck mobility guidance.",
+      "alternatives": "E06 gentle neck rotations or E01 walking.",
+      "reviewRequired": false,
+      "condition": "",
+      "areas": [
+        "neck"
+      ],
+      "sources": [
+        1
+      ],
+      "photo": {
+        "url": "https://static.wixstatic.com/media/a93bd9_08b027f94d6449528b64c0d4f216ae59~mv2.png/v1/fill/w_920%2Ch_565%2Cal_c%2Cq_90%2Cenc_auto/a93bd9_08b027f94d6449528b64c0d4f216ae59~mv2.png",
+        "source": "https://www.healthfirstosteopathy.co.uk/post/5-best-neck-stretches-to-fix-your-pain",
+        "publisher": "Health First Osteopathy",
+        "note": "Short, hands-free neck side tilt only"
+      }
+    }
+  ],
+  "routines": [
+    {
+      "id": "R01",
+      "title": "Morning mobility",
+      "subtitle": "Wake up gently",
+      "time": "6–8 min",
+      "group": "morning",
+      "icon": "sunrise",
+      "when": "At the start of your day",
+      "core": [
+        {
+          "id": "E01",
+          "dose": "2 min",
+          "role": "core",
+          "condition": "",
+          "note": "Indoors is fine"
+        },
+        {
+          "id": "E02",
+          "dose": "8 reps",
+          "role": "core",
+          "condition": "",
+          "note": "Gentle, not a big back arch"
+        },
+        {
+          "id": "E03",
+          "dose": "5 each direction",
+          "role": "core",
+          "condition": "",
+          "note": "Small comfortable arc"
+        },
+        {
+          "id": "E05",
+          "dose": "5 reps",
+          "role": "core",
+          "condition": "",
+          "note": "Eyes level; no force"
+        },
+        {
+          "id": "E06",
+          "dose": "3 each side",
+          "role": "core",
+          "condition": "",
+          "note": "Stay short of pain"
+        },
+        {
+          "id": "E07",
+          "dose": "8 reps",
+          "role": "core",
+          "condition": "",
+          "note": "Do not shrug"
+        },
+        {
+          "id": "E08",
+          "dose": "20-30 sec on affected side",
+          "role": "core",
+          "condition": "",
+          "note": "Skip if leaning strains back"
+        }
+      ],
+      "optional": [
+        {
+          "id": "E04",
+          "dose": "6 reps",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E37",
+          "dose": "2 each side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E13",
+          "dose": "20 sec/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E09",
+          "dose": "",
+          "role": "optional",
+          "condition": "review",
+          "note": ""
+        }
+      ],
+      "safety": ""
+    },
+    {
+      "id": "R02",
+      "title": "Afternoon reset",
+      "subtitle": "Unwind from sitting",
+      "time": "4–6 min",
+      "group": "afternoon",
+      "icon": "sun",
+      "when": "After a long afternoon",
+      "core": [
+        {
+          "id": "E01",
+          "dose": "2 min",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E10",
+          "dose": "8 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E18",
+          "dose": "8 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E05",
+          "dose": "5 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E07",
+          "dose": "8 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E27",
+          "dose": "4 each side",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        }
+      ],
+      "optional": [
+        {
+          "id": "E11",
+          "dose": "20 sec/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E37",
+          "dose": "2 each side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E14",
+          "dose": "20 sec/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E26",
+          "dose": "8/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        }
+      ],
+      "safety": ""
+    },
+    {
+      "id": "R03",
+      "title": "Desk break",
+      "subtitle": "A reset between meetings",
+      "time": "2–3 min",
+      "group": "office",
+      "icon": "laptop",
+      "when": "During the working day",
+      "core": [
+        {
+          "id": "E01",
+          "dose": "60 sec",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E05",
+          "dose": "5 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E06",
+          "dose": "3 each side",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E07",
+          "dose": "8 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E10",
+          "dose": "6 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        }
+      ],
+      "optional": [
+        {
+          "id": "E27",
+          "dose": "4/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E37",
+          "dose": "2 each side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E26",
+          "dose": "8/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E34",
+          "dose": "5 reps",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        }
+      ],
+      "safety": ""
+    },
+    {
+      "id": "R04",
+      "title": "Tennis warm-up",
+      "subtitle": "Get moving before court time",
+      "time": "12–15 min",
+      "group": "tennis",
+      "icon": "activity",
+      "when": "Before playing",
+      "core": [
+        {
+          "id": "E01",
+          "dose": "3 min",
+          "role": "core",
+          "condition": "",
+          "note": "Start easy; jogging only if comfortable"
+        },
+        {
+          "id": "E21",
+          "dose": "60 sec",
+          "role": "core",
+          "condition": "",
+          "note": "Gradual intensity"
+        },
+        {
+          "id": "E26",
+          "dose": "8 each side",
+          "role": "core",
+          "condition": "",
+          "note": "Feet/ankles"
+        },
+        {
+          "id": "E23",
+          "dose": "8 each leg",
+          "role": "core",
+          "condition": "",
+          "note": "Small smooth swings"
+        },
+        {
+          "id": "E19",
+          "dose": "8 reps",
+          "role": "core",
+          "condition": "",
+          "note": "Controlled depth"
+        },
+        {
+          "id": "E22",
+          "dose": "2 x 20 sec",
+          "role": "core",
+          "condition": "",
+          "note": "Tennis footwork, not a sprint"
+        },
+        {
+          "id": "E24",
+          "dose": "5 each side",
+          "role": "core",
+          "condition": "",
+          "note": "Stay upright"
+        },
+        {
+          "id": "E07",
+          "dose": "8 reps",
+          "role": "core",
+          "condition": "",
+          "note": "Only comfortable range"
+        },
+        {
+          "id": "E25",
+          "dose": "4 min",
+          "role": "core",
+          "condition": "tennis",
+          "note": "Easy mini-tennis then progress modestly"
+        }
+      ],
+      "optional": [
+        {
+          "id": "E20",
+          "dose": "10 reps",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E31",
+          "dose": "",
+          "role": "optional",
+          "condition": "review",
+          "note": ""
+        }
+      ],
+      "safety": "A warm-up is not medical clearance to play. Short-court hitting requires clearance; stop strokes that trigger neck or shoulder symptoms."
+    },
+    {
+      "id": "R05",
+      "title": "Tennis cool-down",
+      "subtitle": "Wind down after the match",
+      "time": "6–9 min",
+      "group": "tennis",
+      "icon": "wind",
+      "when": "After playing",
+      "core": [
+        {
+          "id": "E01",
+          "dose": "3 min",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E12",
+          "dose": "20 sec/side",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E11",
+          "dose": "20 sec/side",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E29",
+          "dose": "15-20 sec/side",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E28",
+          "dose": "45-60 sec",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        }
+      ],
+      "optional": [
+        {
+          "id": "E36",
+          "dose": "20 sec/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E13",
+          "dose": "20 sec/side, if a mat is available",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E14",
+          "dose": "20 sec/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E30",
+          "dose": "20 sec/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E08",
+          "dose": "20 sec if the shoulder feels stiff and leaning is tolerated",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        }
+      ],
+      "safety": ""
+    },
+    {
+      "id": "R06",
+      "title": "Gym warm-up",
+      "subtitle": "Prep for approved training",
+      "time": "8–11 min",
+      "group": "gym",
+      "icon": "dumbbell",
+      "when": "Before your workout",
+      "core": [
+        {
+          "id": "E01",
+          "dose": "4 min",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E05",
+          "dose": "5 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E07",
+          "dose": "8 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E18",
+          "dose": "8 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E19",
+          "dose": "8 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E15",
+          "dose": "8 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E35",
+          "dose": "1-2 easy sets",
+          "role": "core",
+          "condition": "gym",
+          "note": ""
+        }
+      ],
+      "optional": [
+        {
+          "id": "E26",
+          "dose": "8/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E20",
+          "dose": "10 reps",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        }
+      ],
+      "safety": "This warm-up does not clear restricted lifts. Chest presses and other neck-straining loads remain off limits until your clinician advises otherwise."
+    },
+    {
+      "id": "R07",
+      "title": "Gym cool-down",
+      "subtitle": "Recover without rushing",
+      "time": "6–8 min",
+      "group": "gym",
+      "icon": "heart",
+      "when": "After your workout",
+      "core": [
+        {
+          "id": "E01",
+          "dose": "3 min",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E11",
+          "dose": "20 sec/side",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E12",
+          "dose": "20 sec/side",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E07",
+          "dose": "6 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E28",
+          "dose": "45-60 sec",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        }
+      ],
+      "optional": [
+        {
+          "id": "E36",
+          "dose": "20 sec/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E13",
+          "dose": "20 sec/side if a mat is available",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E14",
+          "dose": "20 sec/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E30",
+          "dose": "20 sec/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        }
+      ],
+      "safety": ""
+    },
+    {
+      "id": "R08",
+      "title": "Evening wind-down",
+      "subtitle": "Slow movements to finish the day",
+      "time": "5–7 min",
+      "group": "evening",
+      "icon": "moon",
+      "when": "Before bed",
+      "core": [
+        {
+          "id": "E01",
+          "dose": "2 min",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E02",
+          "dose": "6 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E03",
+          "dose": "4 each direction",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E28",
+          "dose": "60 sec",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        }
+      ],
+      "optional": [
+        {
+          "id": "E13",
+          "dose": "20 sec/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E14",
+          "dose": "20 sec/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E11",
+          "dose": "20 sec/side",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E08",
+          "dose": "20 sec",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        }
+      ],
+      "safety": ""
+    },
+    {
+      "id": "R09",
+      "title": "Back & hip resilience",
+      "subtitle": "Build strength with control",
+      "time": "12–16 min",
+      "group": "strength",
+      "icon": "shield",
+      "when": "Twice weekly to start",
+      "core": [
+        {
+          "id": "E01",
+          "dose": "2 min",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E16",
+          "dose": "2 sets x 6/side",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E15",
+          "dose": "2 sets x 8",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E17",
+          "dose": "2 sets x 8/side",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E18",
+          "dose": "2 sets x 8",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E02",
+          "dose": "6 smooth reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        }
+      ],
+      "optional": [
+        {
+          "id": "E04",
+          "dose": "6 reps, only if shoulder/wrist load is comfortable",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E19",
+          "dose": "8 reps",
+          "role": "optional",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E33",
+          "dose": "",
+          "role": "optional",
+          "condition": "review",
+          "note": ""
+        }
+      ],
+      "safety": "Consider asking your physiotherapist to review this plan while your back and neck investigations are pending."
+    },
+    {
+      "id": "R10",
+      "title": "Sore-day minimum",
+      "subtitle": "Do just what feels comfortable",
+      "time": "3–5 min",
+      "group": "recovery",
+      "icon": "cloud",
+      "when": "On mildly stiff days",
+      "core": [
+        {
+          "id": "E01",
+          "dose": "2 min as tolerated",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E02",
+          "dose": "5 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E05",
+          "dose": "3 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E07",
+          "dose": "5 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E28",
+          "dose": "30-60 sec",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        }
+      ],
+      "optional": [],
+      "safety": "For familiar mild symptoms only. If movement worsens pain, stop or choose comfortable walking alone."
+    },
+    {
+      "id": "R11",
+      "title": "Shoulder mobility add-on",
+      "subtitle": "Gentle work, with physio guidance",
+      "time": "3–5 min",
+      "group": "shoulder",
+      "icon": "circle-dot",
+      "when": "When appropriate",
+      "core": [
+        {
+          "id": "E07",
+          "dose": "6 reps",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E08",
+          "dose": "20-30 sec",
+          "role": "core",
+          "condition": "",
+          "note": ""
+        },
+        {
+          "id": "E09",
+          "dose": "5 reps",
+          "role": "core",
+          "condition": "review",
+          "note": ""
+        },
+        {
+          "id": "E32",
+          "dose": "15-20 sec",
+          "role": "core",
+          "condition": "review",
+          "note": ""
+        }
+      ],
+      "optional": [],
+      "safety": "Only use this gentle add-on if appropriate for your shoulder. Clinician-gated movements remain locked until individually approved."
+    }
+  ]
+}
