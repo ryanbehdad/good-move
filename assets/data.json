@@ -97,10 +97,11 @@
         0
       ],
       "photo": {
-        "url": "https://cdn.sanity.io/images/69kas9zj/production/49598d7be86b13d51505f34ef8d87122e4d6e1c0-2048x2048.webp?auto=format&h=2048&w=2048",
-        "source": "https://www.groovepillows.co.uk/blogs/how-to-decompress-spine-while-sleeping",
-        "publisher": "Groove Pillows",
-        "note": "Two-position cat–cow photograph; use a smaller range"
+        "url": "assets/images/e04.png",
+        "source": "assets/images/e04.png",
+        "publisher": "AI-generated · supplied by Ryan",
+        "kind": "generated",
+        "note": "AI-generated illustration supplied by Ryan: gentle cat-camel positions. Follow the written instructions and use a comfortable range."
       }
     },
     {
@@ -608,10 +609,11 @@
         3
       ],
       "photo": {
-        "url": "https://images.ctfassets.net/hjcv6wdwxsdz/6pHuHdSa64Fy51Pp8qllqL/539b6dafe31cf385451fceac5387ca35/woman-doing-side-lunges-white-background.png?w=1200",
-        "source": "https://www.hingehealth.com/resources/articles/side-lunge/",
-        "publisher": "Hinge Health",
-        "note": "Side lunge; use a shallower depth than pictured"
+        "url": "assets/images/e24.png",
+        "source": "assets/images/e24.png",
+        "publisher": "AI-generated · supplied by Ryan",
+        "kind": "generated",
+        "note": "AI-generated illustration supplied by Ryan: standing and shallow lateral lunge positions."
       }
     },
     {
@@ -659,10 +661,11 @@
         3
       ],
       "photo": {
-        "url": "https://cdn.rankyak.com/32997/11-knee-to-wall-ankle-mobility-drill.png",
-        "source": "https://achillesfootandankle.com/ankle-sprain-prevention-exercises/",
-        "publisher": "Achilles Foot & Ankle",
-        "note": "Ankle dorsiflexion position; photograph kneels, perform standing as described"
+        "url": "assets/images/e26.png",
+        "source": "assets/images/e26.png",
+        "publisher": "AI-generated · supplied by Ryan",
+        "kind": "generated",
+        "note": "AI-generated illustration supplied by Ryan: standing ankle rock with the front heel grounded."
       }
     },
     {
@@ -836,10 +839,11 @@
         6
       ],
       "photo": {
-        "url": "https://images.squarespace-cdn.com/content/v1/6398e0bc4d71d8505b67afce/2a45a6cb-55cb-4487-b9d5-de9f857c9a13/bird%2Bdogs.png",
-        "source": "https://thebalancedbodypt.com/the-latest/4-common-types-of-therapeutic-pt-exercises-with-examples",
-        "publisher": "Balanced Body PT",
-        "note": "Full bird dog shown; only small-range clinician-approved version"
+        "url": "assets/images/e33.png",
+        "source": "assets/images/e33.png",
+        "publisher": "AI-generated · supplied by Ryan",
+        "kind": "generated",
+        "note": "AI-generated illustration supplied by Ryan: leg-only reach with toes supported. Clinician approval is still required."
       }
     },
     {
@@ -873,7 +877,7 @@
       "category": "",
       "equipment": "Depends on the exercise",
       "defaultDose": "1-2 sets of 6-8 easy reps at much less than working intensity.",
-      "how": "For an exercise **already cleared by the treating clinician**, rehearse the exact movement at very light resistance or without external weight. Increase load only within a programme approved for the current neck/back/shoulder status.",
+      "how": "Rehearse only a lift already named and cleared in your current clinician-approved programme, using its prescribed technique and warm-up resistance. This step does not specify a lift. If no lift has been approved, skip this step. Increase load only within that approved programme.",
       "watch": "Never use this to trial a restricted movement (including chest press while prohibited); avoid breath-holding, neck bracing and pain. The website must not supply default working weights.",
       "why": "Progress from general warm-up to the permitted specific gym movement.",
       "alternatives": "Skip this step if there are no cleared lifts to perform.",
@@ -886,12 +890,7 @@
       "sources": [
         4
       ],
-      "photo": {
-        "url": "https://assets.nhs.uk/nhsuk-cms/images/STRENGTH_EXERCISES-_Bicep_curls.width-1019.jpg",
-        "source": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
-        "publisher": "NHS",
-        "note": "Illustrative example only: a biceps curl, not a prescribed gym lift"
-      }
+      "photo": null
     },
     {
       "id": "E36",

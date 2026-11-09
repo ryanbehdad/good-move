@@ -29,7 +29,7 @@ Open http://127.0.0.1:4173. After editing, run `npm run build` to refresh the se
 - `assets/styles.css`: responsive styling, reduced motion, and print rules.
 - `scripts/site.test.js`: content integrity, routing, approval, escaping, and project-path checks.
 
-Images still load directly from the original publishers and can fail or change; instructions remain available, a fallback appears, and every exercise links to the original photo. Photo notes explain illustrative or partial matches. The website does not change the supplied medical guidance or certify any exercise for use.
+Most images load directly from the original publishers and can fail or change; instructions remain available with an image fallback. E04, E24, E26 and E33 use locally hosted AI-generated images supplied by Ryan, labelled as generated and linked at full size. E35 is text-only: it refers to a lift already specified in a clinician-approved programme, and does not select a lift or working weight. Photo notes explain illustrative or partial matches. The website does not certify any exercise for use.
 
 ## CI/CD and hosting
 

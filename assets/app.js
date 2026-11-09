@@ -16,7 +16,7 @@ document.querySelector('.skip-link').addEventListener('click', event => {
 });
 
 function image(exercise, className = '', eager = false) {
-  return `<div class="photo ${className}"><span class="image-fallback">Photo unavailable · use the original source below</span><img src="${esc(exercise.photo.url)}" alt="${esc(exercise.name)} — ${esc(exercise.photo.publisher)}" loading="${eager ? 'eager' : 'lazy'}" referrerpolicy="no-referrer"></div>`;
+  return `<div class="photo ${className}"><span class="image-fallback">Image unavailable · use the image link below</span><img src="${esc(exercise.photo.url)}" alt="${esc(exercise.name)} — ${esc(exercise.photo.publisher)}" loading="${eager ? 'eager' : 'lazy'}" referrerpolicy="no-referrer"></div>`;
 }
 
 function routineRow(routine, index) {
@@ -49,8 +49,8 @@ function exerciseView(item, number) {
   // The source uses a few emphasis markers; render the words without exposing markup.
   const prose = value => esc(value.replace(/\*\*/g, '').replace(/\*([^*]+)\*/g, '$1'));
   const instructions = `<p class="how">${prose(exercise.how)}</p>${item.note ? `<p class="item-note">${esc(item.note)}</p>` : ''}<p class="take-care"><strong>Take care</strong> ${esc(exercise.watch)}</p><dl class="exercise-facts"><div><dt>Equipment</dt><dd>${esc(exercise.equipment || 'None')}</dd></div><div><dt>Alternative</dt><dd>${esc(exercise.alternatives)}</dd></div></dl>`;
-  return `<article class="exercise" aria-labelledby="title-${number}">
-    <div class="exercise-media">${image(exercise)}<a class="source" href="${esc(exercise.photo.source)}" ${external}>Original photo · ${esc(exercise.photo.publisher)} ↗</a>${exercise.photo.note ? `<p class="photo-note">${esc(exercise.photo.note)}</p>` : ''}</div>
+  return `<article class="exercise${exercise.photo ? '' : ' text-only'}" aria-labelledby="title-${number}">
+    ${exercise.photo ? `<div class="exercise-media">${image(exercise)}<a class="source" href="${esc(exercise.photo.source)}" ${external}>${exercise.photo.kind === 'generated' ? 'View full image' : 'Original photo'} · ${esc(exercise.photo.publisher)} ↗</a>${exercise.photo.note ? `<p class="photo-note">${esc(exercise.photo.note)}</p>` : ''}</div>` : ''}
     <div class="exercise-copy"><div class="step-heading"><span class="eyebrow">Movement ${String(number).padStart(2, '0')}</span><span class="dose">${esc(item.dose || exercise.defaultDose || 'As approved')}</span></div><h3 id="title-${number}">${esc(exercise.name)}</h3>
     ${caution ? `<p class="approval">${caution}</p>` : ''}${review ? `<details class="review-reference"><summary>View reference instructions</summary>${instructions}</details>` : instructions}</div>
   </article>`;
